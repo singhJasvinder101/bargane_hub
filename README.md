@@ -18,12 +18,13 @@
 - Rewarding system for users engagement
 
 # Demo
-[Demo Video](https://github.com/singhJasvinder101/bargane_hub/assets/131908922/3c204853-02f9-4507-b8d4-29b59623eef3)
+[bargain_hub.webm](https://github.com/singhJasvinder101/bargane_hub/assets/131908922/14f7feeb-b790-453d-b2ad-55574b8afc51)
 
 
 # Setup Instructions
 
-### Type the following commands on terminal
+### Type the following commands on terminal 
+
 <br />
 
 1. Clone Project
